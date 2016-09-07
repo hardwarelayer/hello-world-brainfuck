@@ -1,4 +1,4 @@
-# Hello World in Brainfuck
+# Hello DINO in Brainfuck
 
 ## Install
 - Install Docker
@@ -19,3 +19,6 @@ docker build -t hello-world/brainfuck .
 ```
 docker run --rm -it hello-world/brainfuck
 ```
+
+inside terminal:
+   ./brainfuck hello-dino.bf
